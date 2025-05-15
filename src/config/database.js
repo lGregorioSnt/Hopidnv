@@ -5,7 +5,7 @@ const dbConfig = {
     host: 'localhost',
     user: 'root',
     password: 'root',  // Senha padrão do XAMPP é vazia
-    database: 'hopi_hari_db',
+    database: 'hopihari_db',
     port: 3306, // Porta padrão do MySQL
 };
 
